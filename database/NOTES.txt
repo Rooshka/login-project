@@ -1,0 +1,1 @@
+Импортируй login_project.sql один раз. Он создаёт отдельную базу login_project и таблицу users.
